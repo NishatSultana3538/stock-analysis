@@ -20,17 +20,20 @@ I first face challenge to filter the parent catagory into Theater. The parent ca
 ## Results
 
 ### Comparison between stock performance in 2017 & 2018
+
+
+![Output_2017](https://github.com/NishatSultana3538/stock-analysis/blob/main/Images/Output_2017.png)
+![Output_2018](https://github.com/NishatSultana3538/stock-analysis/blob/main/Images/Output_2018.png)
+1. The highest successful outcomes happen in the month of May and then it gradually decreases towards fall .
+2. Number of successful outcome is always more than failed outcome . 
+
+### Comparison between execution times of the original script and the refactored script
 ![Previous_Image_2017](https://github.com/NishatSultana3538/stock-analysis/blob/main/Supporting%20Data/Previous_Runtime_2017.png)
 ![Previous_Image_2018](https://github.com/NishatSultana3538/stock-analysis/blob/main/Supporting%20Data/previous_Runtime_2018.png)
 
 ![Image_2017](https://github.com/NishatSultana3538/stock-analysis/blob/main/Resources/VBA-Challenge_2017.png)
 ![Image_2018](https://github.com/NishatSultana3538/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-
-1. The highest successful outcomes happen in the month of May and then it gradually decreases towards fall .
-2. Number of successful outcome is always more than failed outcome . 
-
-### Comparison between execution times of the original script and the refactored script
 
 1. Comparing data set that was collected in different years could be misleading as there could be other influences on data based on years e.g. in year 2020/2021 outcomes could be different due to COVID.
 2. Datasets are collected in different countries and different currencies so comparing them can be misleading.
