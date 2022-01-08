@@ -3,8 +3,9 @@
 ## Overview of Project
 An Analysis of Kickstarter Campaigns by usng Kickstarter data [stock-analysis](VBA_Challenge.xlsm) to help Louise with her project campaign.
 
-### Purpose
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset I am trying to  visualize campaign outcomes based on their launch dates and their funding goals.
+### Purpose of Analysis
+Refactor the code to loop through all the data one time in order to collect the same information to determine whether refactoring code successfully made the VBA script run faster.Here I try to  make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. and finally take less time to run.
+Overview of Project: Explain the purpose of this analysis.
 
 ## Analysis and Challenges
 
@@ -18,27 +19,17 @@ I first face challenge to filter the parent catagory into Theater. The parent ca
 
 ## Results
 
-* What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Comparison between stock performance in 2017 & 2018
 
 1. The highest successful outcomes happen in the month of May and then it gradually decreases towards fall .
 2. Number of successful outcome is always more than failed outcome . 
 
-
-
-* What can you conclude about the Outcomes based on Goals?
-
-1. The goal range doesnt clearly related to the successfull outcome.
-2. The canceled outcome is 0% through all ranges for Plays catagory.
-
-
-* What are some limitations of this dataset?
+### Comparison between execution times of the original script and the refactored script
 
 1. Comparing data set that was collected in different years could be misleading as there could be other influences on data based on years e.g. in year 2020/2021 outcomes could be different due to COVID.
 2. Datasets are collected in different countries and different currencies so comparing them can be misleading.
 
-* What are some other possible tables and/or graphs that we could create?
-
-1. We can also create outcomes based on launch date by comparing diffenrent year.
-2. We can create outcomes based on goals tables and line chart by filtering on other catagories e.g. television.
-3. We can create outcomes based on goals by filtering only for US.
-4. We can create column graphs by comparing what percentage of goal has been met.
+##  Summary: 
+### Advantages of refactoring code-
+### Disadvantages of refactoring code-
+### How do these pros and cons apply to refactoring the original VBA script?
