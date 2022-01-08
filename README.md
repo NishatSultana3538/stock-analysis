@@ -1,7 +1,7 @@
 # stock-analysis
 
 ## Overview of Project
-An Analysis of Kickstarter Campaigns by usng Kickstarter data [stock-analysis](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Kickstarter_Challenge%20.xlsx) to help Louise with her project campaign.
+An Analysis of Kickstarter Campaigns by usng Kickstarter data [stock-analysis](VBA_Challenge.xlsm) to help Louise with her project campaign.
 
 ### Purpose
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset I am trying to  visualize campaign outcomes based on their launch dates and their funding goals.
