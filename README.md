@@ -10,8 +10,9 @@ Refactor the code to loop through all the data one time in order to collect the 
 ## Analysis and Challenges
 
 ### Analysis of Date
+First I create a tickerIndex variable and set it equal to zero before iterating over all the rows to  use this tickerIndex to access the correct index across the four different arrays. Then I create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. Then I create a for loop to initialize the tickerVolumes to zero. Then I create a for loop that will loop over all the rows in the spreadsheet. Inside the for loop I write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker. Then I create a for loop to initialize the tickerVolumes to zero. Then I create a for loop that will loop over all the rows in the spreadsheet. Inside the for loop I write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
 
-
+Then I write an if-then statement to check if the current row is the last row with the selected tickerIndex. If it is, then assign the current closing price to the tickerEndingPrices variable. Then I write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker.Then I use a for loop to loop through  arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in  spreadsheet.
 
 ### Challenges and Difficulties Encountered
 
