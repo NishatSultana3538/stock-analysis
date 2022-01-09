@@ -22,7 +22,7 @@ I couldn't open the .vbs file , so opened it in pycharm and copied it to a new m
 
 ### Comparison between stock performance in 2017 & 2018
 
-From the analysis using refactored code [stock-analysis](https://github.com/NishatSultana3538/stock-analysis/blob/main/VBA_Challenge.vbs) I  got the following stock performance for 2017 :
+From the analysis using refactored code [VBA-Challenge](https://github.com/NishatSultana3538/stock-analysis/blob/main/VBA_Challenge.vbs) I  got the following stock performance for 2017 :
 
 ![Output_2017](https://github.com/NishatSultana3538/stock-analysis/blob/main/Images/Output_2017.png)
 
