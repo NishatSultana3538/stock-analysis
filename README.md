@@ -15,13 +15,14 @@ First I create a tickerIndex variable and set it equal to zero before iterating 
 Then I write an if-then statement to check if the current row is the last row with the selected tickerIndex. If it is, then assign the current closing price to the tickerEndingPrices variable. Then I write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker.Then I use a for loop to loop through  arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in  spreadsheet.
 
 ### Challenges and Difficulties Encountered
+I couldn't open the .vbs file , so opened it in pycharm and copied it to a new module. It took me a long time to make my code work after trying to refactor it.
 
 
 ## Results
 
 ### Comparison between stock performance in 2017 & 2018
 
-From the analysis using VBA we got the stock performance for 2017 as follows:
+From the analysis using refactored code [stock-analysis](https://github.com/NishatSultana3538/stock-analysis/blob/main/VBA_Challenge.vbs) I  got the following stock performance for 2017 :
 
 ![Output_2017](https://github.com/NishatSultana3538/stock-analysis/blob/main/Images/Output_2017.png)
 
