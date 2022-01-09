@@ -2,10 +2,10 @@
 
 
 ## Overview of Project
-Here in this project, I determined the stock performance between 2017 and 2018 from  [stock-analysis](VBA_Challenge.xlsm) data to help Steve to know the stock performance . To do data analysis  manually and use Excel formulas for calculations is tidius. But with Visual Basic for Applications, which is typically referred to as "VBA," we can write code that will automate these analyses for us. Often used in the finance industry, VBA provides essentially infinite extensibility to Excel. Using code to automate tasks decreases the chance of errors and reduces the time needed to run analyses, especially if they need to be done repeatedly.
+Here in this project, I determined the stock performance between 2017 and 2018 from  [stock-analysis](VBA_Challenge.xlsm) data to help Steve to know the stock performance . To do data analysis  manually and use Excel formulas for calculations is tidius. But with Visual Basic for Applications, which is typically referred to as "VBA," we can write code that will automate these analysis for us. Often used in the finance industry, VBA provides essentially infinite extensibility to Excel. Using code to automate tasks decreases the chance of errors and reduces the time needed to run analyses, especially if they need to be done repeatedly.
 
 ### Purpose of Analysis
-Refactor the code to loop through all the data one time in order to collect the same information to determine whether refactoring code successfully made the VBA script run faster.Here I try to  make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. and finally take less time to run.
+Refactor the code to loop through all the data one time in order to collect the same information to determine whether refactoring code successfully made the VBA script run faster. Here I try to  make the code more efficient—by taking fewer steps, using less memory and  improving the logic of the code to make it easier for future users to read and finally take less time to run.
 
 ## Analysis and Challenges
 
